@@ -1,5 +1,7 @@
 package com.git.proyecto.model;
 
+import org.python.bouncycastle.crypto.Commitment;
+
 public class Boleta {
 
 	private String estoEsUnaBoletaString;
@@ -12,5 +14,8 @@ public class Boleta {
 		this.estoEsUnaBoletaString = estoEsUnaBoletaString;
 	}
 	
-	
+//	Commit
+//	fetch
+//	pull
+//	Y qué más???
 }
